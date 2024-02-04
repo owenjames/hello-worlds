@@ -1,0 +1,33 @@
+{
+  "name": "hello-clippy",
+  "version": "1.0.2",
+  "description": "clippy says hello world",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owenjames/hello-worlds.git",
+    "directory": "hellos/hello-clippy"
+  },
+  "main": "index.js",
+  "author": "justowen",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "hello-armadillo": "^1.0.0",
+    "hello-banana": "^1.0.0",
+    "hello-bearface": "^1.0.0",
+    "hello-bees": "^1.0.0",
+    "hello-biohazard": "^1.0.0",
+    "hello-bishop": "^1.0.0",
+    "hello-box": "^1.0.0",
+    "hello-bunny": "^1.0.0",
+    "hello-cake": "^1.0.0",
+    "hello-cat": "^1.0.0",
+    "hello-charlie": "^1.0.0",
+    "hello-cheese": "^1.0.0",
+    "hello-chessmen": "^1.0.0",
+    "hello-chito": "^1.0.0"
+  }
+}

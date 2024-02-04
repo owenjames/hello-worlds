@@ -1,0 +1,24 @@
+{
+  "name": "hello-bishop",
+  "version": "1.0.2",
+  "description": "bishop says hello world",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/owenjames/hello-worlds.git",
+    "directory": "hellos/hello-bishop"
+  },
+  "main": "index.js",
+  "author": "justowen",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cowsay": "1.5.0",
+    "hello-armadillo": "^1.0.0",
+    "hello-banana": "^1.0.0",
+    "hello-bearface": "^1.0.0",
+    "hello-bees": "^1.0.0",
+    "hello-biohazard": "^1.0.0"
+  }
+}
