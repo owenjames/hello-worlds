@@ -1,7 +1,7 @@
 {
   "name": "hello-worlds",
   "version": "1.0.5",
-  "description": "hello worlds",
+  "description": "hello world from UA",
   "main": "index.js",
   "repository": "https://github.com/owenjames/hello-worlds.git",
   "license": "MIT",
